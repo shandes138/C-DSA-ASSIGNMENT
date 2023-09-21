@@ -11,3 +11,83 @@ cout<<"wallah";
 }
 
 
+
+
+
+2.Ques: Print 10 using 2 positive numbers less than 6  in C++ as output.
+ANSWER:-CODE:-
+
+#include <iostream>
+using namespace std;
+int main() {
+//  Ques: Print 10 using 2 positive numbers less than 6  in C++ as output.
+    
+cout<<5*2;
+
+
+
+
+
+3.Ques: How much space does following data types take ?
+ANSWER:-
+int-4 BYTE
+bool-1 BYTE
+float-4 BYTE
+
+
+
+
+
+
+4.Ques: What is the output of this program?
+void main(){
+int a=4;
+int b=5;
+a++;b--;
+cout<<++a<<” “<<b–-;
+}
+
+ANSWER:- output:-
+          6 4
+
+
+
+
+
+
+5.Ques: WAP to find the circumference of a circle with radius 10 in C++.
+ANSWER:- CODE
+
+#include <iostream>
+using namespace std;
+ int main() { 
+     //circumference of circle formula is 2*3.14*r
+     float rad,cir;
+     rad=10;
+     cir=2*3.14*rad;
+     cout<<cir;
+         
+}
+
+
+
+
+
+6.Ques: How many of these can be a variable name?
+
+ANSWER:-
+01PWskills- IT'S NOT
+
+ _FLOAT- YES
+
+ int- NOT
+
+ FLOAT-YES
+
+ You will succeed -NO 
+
+
+
+
+
+    
